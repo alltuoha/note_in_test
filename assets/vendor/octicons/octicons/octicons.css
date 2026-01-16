@@ -110,7 +110,7 @@
 .octicon-git-pull-request:before { content: '\f009'} /*  */
 .octicon-globe:before { content: '\f0b6'} /*  */
 .octicon-graph:before { content: '\f043'} /*  */
-.octicon-heart:before { content: '\2665'} /* ♥ */
+.octicon-heart:before { content: '\2665'} /*  */
 .octicon-history:before { content: '\f07e'} /*  */
 .octicon-home:before { content: '\f08d'} /*  */
 .octicon-horizontal-rule:before { content: '\f070'} /*  */
@@ -218,4 +218,4 @@
 .octicon-watch:before { content: '\f0e0'} /*  */
 .octicon-remove-close:before,
 .octicon-x:before { content: '\f081'} /*  */
-.octicon-zap:before { content: '\26A1'} /* ⚡ */
+.octicon-zap:before { content: '\26A1'} /*  */
