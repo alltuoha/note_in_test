@@ -4,21 +4,21 @@
 
 ## 环境
 
-需要 [Ruby](https://rubyinstaller.org/downloads/) 环境支持，并且只能使用 2.6 版本。
+需要 [Ruby](https://rubyinstaller.org/downloads/) 环境支持。
 
-``` text
-Ruby+Devkit 2.6.6-2 (x64)
+```text
+Ruby+Devkit 3.2.9-1 (x64)
 ```
 
 安装好 Ruby 后，需要使用 Bundler 来安装和运行 Jekyll。在命令行输入以下命令安装 Bundler：
 
-``` shell
+```shell
 gem install bundler
 ```
 
 然后安装 Jekyll：
 
-``` shell
+```shell
 bundle install
 ```
 
@@ -28,13 +28,13 @@ bundle install
 
 接着就可以在本地运行项目了：
 
-``` shell
+```shell
 bundle exec jekyll serve
 ```
 
 应该能看到以下的输出：
 
-``` shell
+```shell
 Configuration file: D:/Code/note_in_test/_config.yml
             Source: D:/Code/note_in_test
        Destination: D:/Code/note_in_test/_site
@@ -42,9 +42,7 @@ Configuration file: D:/Code/note_in_test/_config.yml
       Generating...
        Jekyll Feed: Generating feed for posts
    GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
-                    done in 3.476 seconds.
-  Please add the following to your Gemfile to avoid polling for changes:
-    gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+                    done in 2.451 seconds.
  Auto-regeneration: enabled for 'D:/Code/note_in_test'
     Server address: http://127.0.0.1:4000
   Server running... press ctrl-c to stop.

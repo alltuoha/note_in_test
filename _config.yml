@@ -1,13 +1,13 @@
 url:
 baseurl:
 date_format: ordinal
-title: 清风
+title: 绝情可乐瓶
 subtitle: 三里清风三里路 步步风里步步你
 keywords: nice
 timezone: Asia/Shanghai
 encoding: utf-8
 
-author: 清风
+author: 绝情可乐瓶
 location: 重庆
 
 navs:
@@ -33,4 +33,4 @@ plugins:
   - jekyll-feed
   - jemoji
 
-repository: breezeer/breezeer.github.io
+repository: alltuoha/alltuoha.github.io
