@@ -25,11 +25,8 @@ quiet: false
 excerpt_separator: "\n\n"
 permalink: /:title/
 plugins:
-  - jekyll-github-metadata
   - rouge
   - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
   - jemoji
 
 repository: alltuoha/alltuoha.github.io
